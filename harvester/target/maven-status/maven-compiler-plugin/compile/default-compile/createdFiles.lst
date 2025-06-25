@@ -1,0 +1,17 @@
+com\leo\articleimporterservice\ArticleImporterServiceApplication.class
+com\leo\articleimporterservice\clients\OaiClient.class
+com\leo\articleimporterservice\models\dtos\oai\ListRecords.class
+com\leo\articleimporterservice\models\dtos\oai\ListSetsResponse.class
+com\leo\articleimporterservice\models\dtos\oai\ListSets.class
+com\leo\articleimporterservice\models\dtos\oai\Header.class
+com\leo\articleimporterservice\models\dtos\oai\Metadata.class
+com\leo\articleimporterservice\utils\Utils.class
+com\leo\articleimporterservice\models\dtos\oai\ApiConfig.class
+com\leo\articleimporterservice\models\dtos\oai\Record.class
+com\leo\articleimporterservice\importers\OaiImporter.class
+com\leo\articleimporterservice\models\dtos\oai\SetUFRGS.class
+com\leo\articleimporterservice\controllers\OaiController.class
+com\leo\articleimporterservice\models\dtos\oai\Set.class
+com\leo\articleimporterservice\models\dtos\oai\OaiDc.class
+com\leo\articleimporterservice\models\dtos\oai\OaiPmhResponse.class
+com\leo\articleimporterservice\models\dtos\oai\SetUSP.class

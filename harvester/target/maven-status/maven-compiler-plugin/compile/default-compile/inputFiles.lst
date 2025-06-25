@@ -1,0 +1,17 @@
+C:\Users\Leonardo\Desktop\article-importer-service\src\main\java\com\leo\articleimporterservice\ArticleImporterServiceApplication.java
+C:\Users\Leonardo\Desktop\article-importer-service\src\main\java\com\leo\articleimporterservice\clients\OaiClient.java
+C:\Users\Leonardo\Desktop\article-importer-service\src\main\java\com\leo\articleimporterservice\controllers\OaiController.java
+C:\Users\Leonardo\Desktop\article-importer-service\src\main\java\com\leo\articleimporterservice\importers\OaiImporter.java
+C:\Users\Leonardo\Desktop\article-importer-service\src\main\java\com\leo\articleimporterservice\models\dtos\oai\ApiConfig.java
+C:\Users\Leonardo\Desktop\article-importer-service\src\main\java\com\leo\articleimporterservice\models\dtos\oai\Header.java
+C:\Users\Leonardo\Desktop\article-importer-service\src\main\java\com\leo\articleimporterservice\models\dtos\oai\ListRecords.java
+C:\Users\Leonardo\Desktop\article-importer-service\src\main\java\com\leo\articleimporterservice\models\dtos\oai\ListSets.java
+C:\Users\Leonardo\Desktop\article-importer-service\src\main\java\com\leo\articleimporterservice\models\dtos\oai\ListSetsResponse.java
+C:\Users\Leonardo\Desktop\article-importer-service\src\main\java\com\leo\articleimporterservice\models\dtos\oai\Metadata.java
+C:\Users\Leonardo\Desktop\article-importer-service\src\main\java\com\leo\articleimporterservice\models\dtos\oai\OaiDc.java
+C:\Users\Leonardo\Desktop\article-importer-service\src\main\java\com\leo\articleimporterservice\models\dtos\oai\OaiPmhResponse.java
+C:\Users\Leonardo\Desktop\article-importer-service\src\main\java\com\leo\articleimporterservice\models\dtos\oai\Record.java
+C:\Users\Leonardo\Desktop\article-importer-service\src\main\java\com\leo\articleimporterservice\models\dtos\oai\Set.java
+C:\Users\Leonardo\Desktop\article-importer-service\src\main\java\com\leo\articleimporterservice\models\dtos\oai\SetUFRGS.java
+C:\Users\Leonardo\Desktop\article-importer-service\src\main\java\com\leo\articleimporterservice\models\dtos\oai\SetUSP.java
+C:\Users\Leonardo\Desktop\article-importer-service\src\main\java\com\leo\articleimporterservice\utils\Utils.java
